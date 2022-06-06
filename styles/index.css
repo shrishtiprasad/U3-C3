@@ -1,0 +1,25 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+    background-color: aqua;
+    margin-bottom: 50px;
+}
+#form{
+    /* display: flex; */
+    height: 400px;
+    width: 300px;
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+}
+#form>input{
+    display: inline-block;
+    margin-bottom: 20px;
+    height: 20px;
+    width: 200px;
+}
+#form>button{
+    display: inline-block;
+}
